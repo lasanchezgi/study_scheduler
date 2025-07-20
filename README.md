@@ -212,6 +212,6 @@ Study Scheduler te ayuda a elegir lo que quieres más: **tu crecimiento personal
 
 ## 💡 Autor y agradecimientos
 
-[Laura Sánchez Giraldo](mailto:laurasanchezgiraldo@outlook.es)  
+[Laura Sánchez Giraldo](https://laurasanchezgiraldo.com/)  
 
 Hecho con ❤️ para eliminar las excusas y maximizar el aprendizaje.
