@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "study_scheduler"
+version = "0.1.0"
+description = "Abre plataformas de estudio según el horario"
+authors = ["Laura Sanchez Giraldo <laurasanchezgiraldo@outlook.es>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+schedule = "^1.2.1"  # Por si luego decides ejecutarlo periódicamente
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+package-mode = false
