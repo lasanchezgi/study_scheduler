@@ -2,7 +2,7 @@
     {
         "name": "Coursera",
         "url": "https://www.coursera.org",
-        "start_time": "08:00",
+        "start_time": "07:00",
         "end_time": "09:00"
     },
     {
@@ -10,6 +10,11 @@
         "url": "https://www.datacamp.com",
         "start_time": "12:00",
         "end_time": "14:00"
+    },
+    {
+        "name": "IUD",
+        "url": "https://extensioniudigital.instructure.com/courses/1714",
+        "start_time": "18:00",
+        "end_time": "20:00"
     }
-    
 ]
