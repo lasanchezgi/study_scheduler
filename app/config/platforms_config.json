@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Coursera",
+        "url": "https://www.coursera.org",
+        "start_time": "08:00",
+        "end_time": "09:00"
+    },
+    {
+        "name": "DataCamp",
+        "url": "https://www.datacamp.com",
+        "start_time": "12:00",
+        "end_time": "14:00"
+    }
+    
+]
